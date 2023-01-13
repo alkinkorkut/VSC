@@ -124,7 +124,7 @@ class ChatWindow(QWidget):
 
         # Print connection information and wait for user's input to send to server
         print(
-            "\nConnected to IRC Server! \nServer IP:",
+            "\nConnected to VSC Server! \nServer IP:",
             SERVER_ADDRESS,
             "\nServer PORT:",
             SERVER_PORT,
