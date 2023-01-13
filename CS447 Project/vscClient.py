@@ -11,7 +11,7 @@ userName = ""
 password = ""
 
 #SERVER_ADDRESS = "127.0.0.1"  # local server ip
-SERVER_ADDRESS = 'ec2-34-207-62-120.compute-1.amazonaws.com'   # prod server ip
+SERVER_ADDRESS = 'ec2-100-26-169-209.compute-1.amazonaws.com'   # prod server ip
 SERVER_PORT = 7550  # listen port
 
 """ Initiate client and connect to server """
