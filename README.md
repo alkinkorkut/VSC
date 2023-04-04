@@ -1,2 +1,2 @@
 # VSC
-Very Simple Chat
+Very Simple Chat Application
